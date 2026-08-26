@@ -7,6 +7,7 @@ This website is designed to raise awareness about climate change and encourage p
 The website is divided into three main sections:
 
 INFORMATION
+
 This section provides educational information about climate change, including:
 
 What climate change is.
@@ -18,6 +19,7 @@ Possible solutions and actions that can help reduce its impact.
 The purpose of this section is to help users understand the problem before encouraging them to take action.
 
 TASKS
+
 In this section, users receive different tasks that they can complete in their everyday lives.
 
 Each task includes:
@@ -31,6 +33,7 @@ For example, a task could ask the user to recycle their waste, use public transp
 By completing these tasks, users earn points and make progress on their profile.
 
 PROFILE
+
 The profile section allows users to keep track of their progress.
 
 Here, users can see:
